@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "Personal and Professional Coaching"
 ---
-# Personal and Professional Coaching
 <img style="float: center;" src="/assets/img/coaching_big.jpg"/>
 
 Are you facing an important decision? Do you feel a need to clarify the balance between your values and your choices? Or simply reflect on a change in your journey through life?  
