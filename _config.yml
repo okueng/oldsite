@@ -16,7 +16,7 @@
 title: Olivier Küng
 email: olivier.kueng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Olivier Küng's website about coaching, entreprenership, tech stuff and products
+  Olivier Küng's website about coaching, entrepreneurship, tech stuff and products
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: okueng
