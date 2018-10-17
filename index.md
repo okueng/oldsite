@@ -5,7 +5,6 @@
 layout: home
 title: "Personal and Professional Coaching"
 ---
-<img style="float: center;" src="/assets/img/coaching_big.jpg"/>
 
 Are you facing an important decision? Do you feel a need to clarify the balance between your values and your choices? Or simply reflect on a change in your journey through life?  
 
@@ -22,7 +21,7 @@ More about my [professional career](https://www.linkedin.com/in/olivier-k%C3%BCn
 
 # In practice
 
-<img style="float: center;" src="/assets/img/coaching3.jpg"/>
+<img style="float: center;" src="/assets/img/coaching_big.jpg"/>
 
 **How long does coaching take?**
   
