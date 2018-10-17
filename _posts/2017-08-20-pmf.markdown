@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Product Management Festival Zürich 2017"
+author: "Olivier Küng"
+categories: agility
+tags: [agility,conference]
+image: pmf.jpg
+---
+
+# Product Management Festival Zürich 2017
+
+A 2-day product focused conference with lot’s of great speakers. It was that good that I will try to go to the 2018 edition. Here are my personal highlights:
+
+## Stakeholder management by Sven Grajetzki (Delivery Hero)
+They grew so much so quickly (acquiring 19 companies in a year…) that their internal in-fighting was magnified. Basically departments were fighting against each other for resources and direction instead on focusing on the customer. 
+
+They tried many mitigations such as newsletter , steering committees, but it was not helping enough. Sven notices that “Every silo & function perceives their goals as ultimately correct and being the most important”. 
+
+So in order to align everyone, they changed the organisation of the company. Instead of making silos based on discipline, they made verticals based on customer segments. Inside of a vertical, each functions can refer to the same goal ( answer “what can be do best for restaurants today”). Inside a vertical everything is very fluid and informal, and everyone shares a single, common priority list. A vertical fully owns and is autonomous on its tech, process and products. A very important note: “Teams and people can only belong to ONE vertical at a time”. Between verticals the communication needs to be very formal, both technically (API), and also the processes.
+
+When we talked later with Sven, we addressed the issue of Machine Learning, where you have a highly specialized function that doesn’t make sense to replicate for each of the vertical. In such cases they had either the concept of a chapter, in which all ML devs are distributed in the verticals, but still regularly meet, or even having support teams that would just help the verticals.
+That was probably my favorite talk of the entire conference, and fits well when reading the book “Flow”, as it goes along on how to align every one in a company to empower them.
+
+I had a "aha" moment during his talk, as it was explaining a lot of behaviour I could this at at work. Love when this happens!
+
+## Drowning in feedback? By Daniel Strazzula (Contentful)
+Basically, Daniel was arguing that it is not enough to just gather feedback. Organizing the feedback is hard, and is usually more about creating a shared understanding within an organization than anything else. And building shared understanding is usually all about having conversations.
+
+I could relate to many of his experience, as I went a bit through the same journey. I like how they went the extra mile of collaborting between teams to create a shared understanding and multiple taxonomies.
+
+## Design User-Centered - but don't forget the designer! by Lukas Bänninger
+A user-centric product does not mean it is designed by users, it is still designed by a designer. Feedback is one source to design the products, but users feedback will never care about UX constraints. Active observation/experiments/interviews are usually more useful. 
+
+I usually tell poeple who have no knowledge about design/UX to watch it first, as it is a good summary of these fields. This talk is a great complement to the drowning in feedback talk.
+
+## Balancing Heuristics and data by David Pier (Skyscanner)
+David shared his experience by going to deep in optimizing a product based on metrics, while missing the real intent of the product behind. So he argues to keep the big picture always in mind, as metrics will never capture easily things such as trust.
+
+It's the first time I saw in details how much metric, A/B testing, experimentation could be pushed.
+
+## How to lose your hair and grow a product by Chris Long (Shopify)
+Amazing talk reminding that the real metric to use is not the revenue, but the total value ( total value = (value/user)  * (#users getting value) ). Optimizing for revenue might lead to bad behavior (scamming), however increasing value for the user will always lead to more revenues.
+A good way to measure value is a metric that is time bound (7d/30d) and that the team can impact. He argues then that value should be increased incrementally with short cycles instead of a giant launch, and then it is all about increasing the value/user incrementally. He also reminds that increasing total value is everyone’s responsibility in the company, and that the process (awareness->acquisition->activation->retention) should be always on the mind. Finally, he argues against growth hack (a hack is short term, might not increase value)
+
+Very solid reminder of the 
+
+## The new product manager by Mark Hull (Facebook)
+Very inspirational talk by Mark, summarized in 3 points
+1. Focus on real people problems
+2. What people problem are we trying to solve?
+   * How do we know this is a real problem?
+   * How will we know if we’ve solved this problem?
+   * Understand, identify and execute with extreme focus and clarity
+3. Relationships matter
+   * Remember to be kind
+   * Influence is the property of people wanting your help. Authority can be taken away.Influence cannot.
