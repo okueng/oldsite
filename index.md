@@ -18,6 +18,8 @@ My name is Olivier and I am from Lausanne in the french speaking part of Switzer
 
 After growing for 7 years my succesful software start-up with over 100 employees, I wanted to find a way to give back and offer this support to others. To provide the highest standard of coaching, I followed the [IDC professional coaching training](http://www.idc-coaching.com/) and I am on my way for its certification. 
 
+More about my [professional career](https://www.linkedin.com/in/olivier-k%C3%BCng/), my favorite [business books](https://www.goodreads.com/review/list/53604980-olivier-kueng?shelf=business&view=covers), and [SF books](https://www.goodreads.com/review/list/53604980-olivier-kueng?shelf=other&view=covers) and my discover weekly Spotify [playlist](https://open.spotify.com/playlist/37i9dQZEVXcVix6u3OSyqP)
+
 # In practice
 
 <img style="float: center;" src="/assets/img/coaching3.jpg"/>
