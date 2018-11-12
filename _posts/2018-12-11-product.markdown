@@ -14,7 +14,7 @@ Start by watching the [video](https://www.youtube.com/watch?v%3D502ILHjX9EE&sa=D
 
 In addition to the PO role, there are also a lot of more strategic considerations to take in account. A good overview of them are in the PM handbook by Intercom (to [download](https://www.intercom.com/books/product-management&sa=D&ust=1542052208645000)from their website). Then I would suggest next the "[User Story Mapping](https://www.amazon.com/User-Story-Mapping-Discover-Product-ebook-dp-B00NF07FHS/dp/B00NF07FHS/ref%3Dmt_kindle?_encoding%3DUTF8%26me%3D%26qid%3D&sa=D&ust=1542052208645000)" book by Jeff Patton that not only introduce some tools, but mostly talks of the importance to use stories as a communication medium. To me this book is a huge reference that I keep going back to. Subscribing to Martin Pinchler's [blog](https://www.romanpichler.com/blog/&sa=D&ust=1542052208645000)is also a good idea, and reading his [book](https://www.romanpichler.com/romans-books/strategize/&sa=D&ust=1542052208646000)is a must.
 
-
+![At the intersection of users,technology and business is product management](/assets/img/product.png)
 
 Ok, so now you see that tactical and strategic side of Product, let's look at it from 3 other perspectives:
 
