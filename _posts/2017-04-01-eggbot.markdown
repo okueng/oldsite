@@ -19,5 +19,5 @@ What about drawing patterns on your computer, and have a printer drawing them wi
 6. Get some vectorial files from google
 7. Let’s print!
 
-![alt text](/assets/img/eggs1.jpg "Nice Eggs!")
-![alt text](/assets/img/eggs2.jpg "Nice Eggs!")
+![alt text](/assets/img/eggs4.jpg "Nice Eggs!")
+![alt text](/assets/img/eggs3.jpg "Nice Eggs!")
