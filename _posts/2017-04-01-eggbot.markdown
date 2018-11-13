@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Make: EggBot / Sphere-o-bot"
+author: "Olivier Küng"
+categories: make
+tags: [eggbot,make]
+---
+
+Easter time! And now, time for some egg painting automation…
+What about drawing patterns on your computer, and have a printer drawing them with a pen on an egg.
+
+{% include youtubePlayer.html id=gQfi2KWLO7g %}
+
+1. Sourcing from Aliexpress the different parts
+2. Print from the parts from thingiverse using my Lulzbot Taz6
+3. Solder the parts on a protoboard
+4. Install the necessary inkscape plugins
+5. Fix the python files for my setup
+6. Get some vectorial files from google
+7. Let’s print!
+
+![alt text](/asset/img/eggs1.png "Nice Eggs!")
