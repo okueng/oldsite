@@ -9,7 +9,7 @@ tags: [eggbot,make]
 Easter time! And now, time for some egg painting automation…
 What about drawing patterns on your computer, and have a printer drawing them with a pen on an egg.
 
-{% include youtubePlayer.html id=gQfi2KWLO7g %}
+{% include youtubePlayer.html id="gQfi2KWLO7g" %}
 
 1. Sourcing from Aliexpress the different parts
 2. Print from the parts from thingiverse using my Lulzbot Taz6
