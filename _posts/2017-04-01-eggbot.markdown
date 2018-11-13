@@ -11,13 +11,15 @@ What about drawing patterns on your computer, and have a printer drawing them wi
 
 {% include youtubePlayer.html id="gQfi2KWLO7g" %}
 
-1. Sourcing from Aliexpress the different parts
-2. Print from the parts from thingiverse using my Lulzbot Taz6
+1. Sourcing from Aliexpress the (different parts)[https://www.jjrobots.com/sphere-o-bot-assembly-and-user-guide/]
+2. Print from the parts from [thingiverse](https://www.thingiverse.com/thing:1683764) using my Lulzbot Taz6
 3. Solder the parts on a protoboard
 4. Install the necessary inkscape plugins
 5. Fix the python files for my setup
 6. Get some vectorial files from google
 7. Let’s print!
+8. Post it back on [thingiverse](https://www.thingiverse.com/make:563913)
 
 ![alt text](/assets/img/eggs4.jpg "Nice Eggs!")
+
 ![alt text](/assets/img/eggs3.jpg "Nice Eggs!")
